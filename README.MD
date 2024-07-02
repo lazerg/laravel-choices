@@ -1,3 +1,5 @@
+# USE https://github.com/laravel/prompts instead
+
 # Command Line choices
 
 ![Version](https://img.shields.io/packagist/v/lazerg/laravel-choices.svg?style=plastic)
